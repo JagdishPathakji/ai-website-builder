@@ -1,2 +1,17 @@
-# ai-website-builder
-An intelligent web generator that uses Google Gemini and LangChain to create complete multi-page, responsive HTML-CSS-JS websites from natural language prompts. Automatically structures files, writes code to disk, and opens the generated project instantly.
+# 🤖 AI Website Builder
+
+An **AI-powered multi-page website generator** built using **Google Gemini** and **LangChain**.  
+Just describe the kind of website you want (like “a gaming shop website” or “an online course platform”) —  
+and this tool automatically creates a full, responsive website with **HTML, CSS, and JavaScript files**.
+
+---
+
+## 🚀 Features
+
+- 🧠 Uses **Google Gemini 2.5 Flash** for intelligent code generation  
+- 📂 Automatically creates project folders and files (HTML, CSS, JS)  
+- 🖼️ Supports **multi-page websites** with consistent linking  
+- 🌐 Adds **free online images** (Unsplash, Picsum, etc.) automatically  
+- 📱 Fully **responsive CSS** for all device sizes  
+- ⚡ Opens your generated website instantly  
+- 🧩 Structured output using **Zod** and **LangChain** schema validation  
