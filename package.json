@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "@langchain/google-genai": "^0.2.18",
+    "dotenv": "^17.2.3",
+    "readline-sync": "^1.4.10",
+    "zod": "^3.25.76"
+  }
+}
