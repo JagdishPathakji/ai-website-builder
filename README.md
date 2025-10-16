@@ -15,3 +15,16 @@ and this tool automatically creates a full, responsive website with **HTML, CSS,
 - 📱 Fully **responsive CSS** for all device sizes  
 - ⚡ Opens your generated website instantly  
 - 🧩 Structured output using **Zod** and **LangChain** schema validation  
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|----------|
+| **Node.js** | Runtime environment |
+| **LangChain** | Structured AI output handling |
+| **Google Gemini** | AI model for code generation |
+| **Zod** | Schema validation for structured AI output |
+| **fs / path** | File system operations |
+| **child_process** | To open the generated website instantly |
